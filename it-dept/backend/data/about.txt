@@ -1,0 +1,24 @@
+About the department
+The Department of Information Technology was established in the year 1999. It has the vision of “Evolve into a Centre of Excellence for Education and Research in Information Technology” through academic excellence, collaborative research and value added courses to produce highly competent and socially conscious information technology professionals. The Department offers one UG programme BTech in Information Technology since 1999 and one PG programme in Computer Science and Information Security since 2014. The UG programme is accredited by NBA for two years.
+The theme area of the Department is “Data Modelling and Analytics” and it is facilitated by different Special Interest Groups (SIGs) – Data Engineering, Distributed Systems, Mobile Technologies, and Information Security and Management. The Department is supported by well experienced and qualified faculty members. Faculty have been doing research in the areas like Data Analytics, Data Mining, Wireless Sensor Networks, Information Security, Cognitive science, Cloud Computing, etc. The Department has active Student Chapters in Professional Bodies like Association of Computing Machinery (ACM), IEEE-SMC and ISACA and is involved in organizing events like guest lectures, workshops and project contests.
+The Department has established Industry linkage with various companies like Honeywell, IBM, CTS, Zebra Technologies, XEROX, DELL, GT-NEXUS, EMC2, and Microsoft. It has industry supported Enterprise Mobility Lab by Zebra technologies (Motorola). Both students and faculty have been trained in contemporary areas and for industrial solutions. 90% placement is maintained consistently every year.
+Many of our Alumnus do higher studies in global Universities like University of Sydney, Collarado, Illinois, Cincinatti and so on. Apart from specialized knowledge and skills, the association programmes conducted by the Department aim to develop all round personality by inculcating values of truthfulness, genuineness, team spirit and vibrant work culture.
+
+Vision
+Evolve into a Centre of Excellence for Education and Research in Information Technology
+
+Mission
+Attaining academic excellence through well designed curriculum adaptable to dynamic technological needs, competent faculty and innovative teaching-learning process.
+Promoting collaborative research through special interest groups, state of the art research labs and Industry Institute Interactions.
+Facilitating value added courses to produce highly competent and socially conscious information technology professionals and entrepreneurs.
+
+Program Educational Objectives (PEOs)
+PEO 1. Graduates of the programme will provide IT solutions to address the business and societal needs.
+PEO 2. Graduates of the programme will contribute significantly in the technological developments of Information Technology through research practices.
+PEO 3. Graduates of the programme will hone their professional expertise in quest for improved career opportunities through sustained learning.
+PEO 4. Graduates of the programme will lead a team of diversified professionals with good communication skills, leadership virtues and professional ethics.
+
+Programme Specific Outcomes (PSOs)
+PSO1: Provide appropriate IT solutions in Data Engineering, Distributed Computing, Information Security and Mobile Technologies domains.
+PSO2: Select suitable computer-based tools for the analysis, design and development of IT based systems adhering to professional standards and practices.
+PSO3: Exhibit teamwork skills with professional ethics and serve as effective member of societal and multidisciplinary projects

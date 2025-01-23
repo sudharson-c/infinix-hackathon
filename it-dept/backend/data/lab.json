@@ -1,0 +1,200 @@
+[
+    {
+      "name": "Programming Lab",
+      "capacity": 60,
+      "location": {
+        "floor": "First Floor",
+        "roomNumber": "F102"
+      },
+      "equipment": [
+        "HP Desktop Computers",
+        "Smart Board",
+        "Projector",
+        "Air Conditioner",
+        "UPS Backup"
+      ],
+      "facilities": [
+        "High-Speed Internet",
+        "Development Software Suite",
+        "Printing Facility"
+      ],
+      "status": "available",
+      "currentOccupancy": 0,
+      "schedule": [
+        {
+          "day": "Monday",
+          "startTime": "09:00",
+          "endTime": "10:40",
+          "subject": "Python Programming",
+          "faculty": "Dr. Sarah Johnson",
+          "class": "IT-2A"
+        },
+        {
+          "day": "Monday",
+          "startTime": "11:00",
+          "endTime": "12:40",
+          "subject": "Java Programming",
+          "faculty": "Prof. Michael Chen",
+          "class": "IT-3B"
+        },
+        {
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "endTime": "15:40",
+          "subject": "Web Development",
+          "faculty": "Dr. Emily Parker",
+          "class": "IT-4A"
+        }
+      ],
+      "specialFeatures": [
+        "Dual Monitor Setup",
+        "Code Version Control System",
+        "Student Project Repository"
+      ]
+    },
+    {
+      "name": "Network Security Lab",
+      "capacity": 40,
+      "location": {
+        "floor": "Second Floor",
+        "roomNumber": "S201"
+      },
+      "equipment": [
+        "Cisco Routers",
+        "Network Switches",
+        "Firewall Systems",
+        "Network Analyzers",
+        "Desktop Computers"
+      ],
+      "facilities": [
+        "Isolated Network Environment",
+        "Network Simulation Software",
+        "Security Testing Tools"
+      ],
+      "status": "in-use",
+      "currentOccupancy": 35,
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "startTime": "09:00",
+          "endTime": "10:40",
+          "subject": "Network Security",
+          "faculty": "Prof. David Wilson",
+          "class": "IT-4A"
+        },
+        {
+          "day": "Thursday",
+          "startTime": "11:00",
+          "endTime": "12:40",
+          "subject": "Ethical Hacking",
+          "faculty": "Dr. Lisa Brown",
+          "class": "IT-4B"
+        }
+      ],
+      "specialFeatures": [
+        "Hardware Firewall",
+        "Penetration Testing Environment",
+        "Network Monitoring Tools"
+      ]
+    },
+    {
+      "name": "Data Analytics Lab",
+      "capacity": 45,
+      "location": {
+        "floor": "Second Floor",
+        "roomNumber": "S204"
+      },
+      "equipment": [
+        "High-Performance Workstations",
+        "GPU Servers",
+        "Data Visualization Displays",
+        "Smart Board"
+      ],
+      "facilities": [
+        "Big Data Processing Tools",
+        "Statistical Analysis Software",
+        "Machine Learning Frameworks"
+      ],
+      "status": "available",
+      "currentOccupancy": 0,
+      "schedule": [
+        {
+          "day": "Monday",
+          "startTime": "14:00",
+          "endTime": "15:40",
+          "subject": "Data Mining",
+          "faculty": "Dr. Robert Zhang",
+          "class": "IT-3A"
+        },
+        {
+          "day": "Friday",
+          "startTime": "09:00",
+          "endTime": "10:40",
+          "subject": "Machine Learning",
+          "faculty": "Prof. Amanda Lee",
+          "class": "IT-4A"
+        }
+      ],
+      "specialFeatures": [
+        "CUDA-enabled GPUs",
+        "Real-time Data Processing",
+        "Advanced Visualization Tools"
+      ]
+    },
+    {
+      "name": "IoT and Embedded Systems Lab",
+      "capacity": 35,
+      "location": {
+        "floor": "First Floor",
+        "roomNumber": "F105"
+      },
+      "equipment": [
+        "Arduino Kits",
+        "Raspberry Pi Sets",
+        "Sensor Arrays",
+        "IoT Development Boards",
+        "3D Printer"
+      ],
+      "facilities": [
+        "Component Storage",
+        "Testing Equipment",
+        "Soldering Stations"
+      ],
+      "status": "maintenance",
+      "currentOccupancy": 0,
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "startTime": "09:00",
+          "endTime": "10:40",
+          "subject": "IoT Systems",
+          "faculty": "Dr. James Miller",
+          "class": "IT-3B"
+        },
+        {
+          "day": "Thursday",
+          "startTime": "14:00",
+          "endTime": "15:40",
+          "subject": "Embedded Programming",
+          "faculty": "Prof. Kevin Wang",
+          "class": "IT-3A"
+        }
+      ],
+      "specialFeatures": [
+        "Hardware Testing Units",
+        "IoT Simulation Environment",
+        "Project Workspace"
+      ],
+      "maintenanceHistory": [
+        {
+          "date": "2024-01-15",
+          "description": "Annual equipment calibration",
+          "technician": "Mark Thompson"
+        },
+        {
+          "date": "2024-01-20",
+          "description": "Sensor array upgrade",
+          "technician": "Steve Rogers"
+        }
+      ]
+    }]

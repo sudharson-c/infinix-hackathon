@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Smart Attendance System",
+    "description": "Face recognition based attendance tracking system using deep learning",
+    "teamMembers": [
+      { "name": "Sudharson", "rollNo": "22IT112", "class": "3th Year" },
+      { "name": "Sri Vignesh", "rollNo": "22IT104", "class": "3th Year" }
+    ],
+    "category": "AI/ML",
+    "status": "Completed",
+    "githubLink": "https://github.com/example/smart-attendance",
+    "projectImage": "/projects/attendance-system.jpg",
+    "academicYear": "2023-24"
+  },
+  {
+    "title": "IoT Based Smart Agriculture",
+    "description": "Automated irrigation and crop monitoring system using IoT sensors",
+    "teamMembers": [
+      { "name": "Mike Wilson", "rollNo": "20IT103", "class": "4th Year" },
+      { "name": "Emily Brown", "rollNo": "20IT104", "class": "4th Year" }
+    ],
+    "category": "IoT",
+    "status": "In Progress",
+    "githubLink": "https://github.com/example/smart-agriculture",
+    "projectImage": "/projects/smart-agriculture.jpg",
+    "academicYear": "2023-24"
+  }
+]
