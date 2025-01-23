@@ -1,8 +1,56 @@
-# React + Vite
+# IT Department Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application for managing and showcasing the Information Technology department's resources, activities, and information.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Academic Management
+
+- Course curriculum and syllabus management
+- Faculty directory with profiles and research areas
+- Academic calendar and timetable
+- Student project showcase
+
+### Facilities
+
+- Lab management and scheduling
+- Equipment tracking and maintenance history
+- Project workspace allocation
+
+### Information Hub
+
+- Department announcements and news
+- Latest events and activities
+- Faculty publications
+- Placement updates
+
+### Student Resources
+
+- Course materials access
+- Lab availability checking system
+- Academic resources
+
+## Tech Stack
+
+### Frontend
+
+- React with Vite
+- TailwindCSS for styling
+- Framer Motion for animations
+- Recharts for data visualization
+- Axios for API communication
+
+### Backend
+
+- Node.js with Express
+- MongoDB for database
+- Mongoose for ODM
+- PDF parsing capabilities
+- Web scraping utilities
+
+### Screenshots
+
+![Screenshot 1](../screenshots/1.png)
+![Screenshot 2](../screenshots/2.png)
+![Screenshot 3](../screenshots/3.png)
+![Screenshot 4](../screenshots/4.png)
